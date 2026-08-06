@@ -34,11 +34,13 @@ const MemoDemo = () => {
     // we use useMemo not useEffect as useEffect do not returns the value and we will not be able to show the data on UI.
     // if there is no need to save data or show it on UI we can use useEffect to stop the rerenders
     let data = useMemo(()=>{ //this works as DP , computes the value one time and saves it.
+
         let res = 0
         for(let i=0 ; i<1000000000 ; i++){
             res+=i
         }
         return res
+
     },[])
 
     let demo = ()=>{

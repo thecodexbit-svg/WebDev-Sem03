@@ -73,7 +73,6 @@ const UseReduserDemo = () => {
                 ...state,
                 input:action.payload
             }
-
         }
         else if(action.type=="add"){
             return{
