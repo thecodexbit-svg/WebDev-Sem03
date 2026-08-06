@@ -1,16 +1,49 @@
-# React + Vite
+# WebDev-Sem03
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A collection of Web Development Semester 3 projects, assignments, and practice exercises using HTML, CSS, JavaScript, and modern web technologies.
 
-Currently, two official plugins are available:
+## 📚 Topics Covered
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Vite
+- DOM Manipulation
+- Local Storage
+- Responsive Web Design
+- Mini Projects
 
-## React Compiler
+## 🚀 Getting Started
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Clone the repository:
 
-## Expanding the ESLint configuration
+```bash
+git clone https://github.com/thecodexbit-svg/WebDev-Sem03.git
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Start the development server:
+
+```bash
+npm run dev
+```
+
+## 🛠️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
+- Git
+- GitHub
+
+## 📄 License
+
+This repository is for educational purposes.

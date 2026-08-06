@@ -7,18 +7,39 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+build/
+
+# Environment files
+.env
 *.local
 
-# Editor directories and files
+# Cache
+.cache/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
 .vscode/*
 !.vscode/extensions.json
-.idea
-.DS_Store
+
+# IntelliJ
+.idea/
+
+# Visual Studio
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
+
+# Swap files
 *.sw?

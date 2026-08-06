@@ -41,12 +41,12 @@
 import React from 'react'
 // import Home from './class_03/Home'
 import UseReduserDemo from './class_05/useReduserDemo'
+import MemoDemo from './class_06/MemoDemo'
 
 const App = () => {
   return (
     <div>
-      {/* <Home/> */}
-      <UseReduserDemo/>
+      <MemoDemo/>
     </div>
   )
 }
