@@ -42,11 +42,12 @@ import React from 'react'
 // import Home from './class_03/Home'
 import UseReduserDemo from './class_05/useReduserDemo'
 import MemoDemo from './class_06/MemoDemo'
+import ZomatoQues from './class_07/ZomatoQues'
 
 const App = () => {
   return (
     <div>
-      <MemoDemo/>
+      <ZomatoQues/>
     </div>
   )
 }
