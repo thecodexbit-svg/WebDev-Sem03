@@ -14,6 +14,8 @@ fs.writeFileSync("index.html", "hello world") // Syncronous task {used when we w
 //     Console.log("Async Task")
 // })
 
+
+// READ FILE
 // let data = fs.readFileSync("index.html")
 // console.log(data.toString());
 
